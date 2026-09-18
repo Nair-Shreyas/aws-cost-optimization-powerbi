@@ -1,5 +1,7 @@
 # AWS Cost Optimization Advisor — Power BI Dashboard
 
+![Project Overview](assets/0_project_overview.png)
+
 An interactive Power BI dashboard for cloud cost analysis, built around real AWS EC2 pricing data — designed for cloud architects, FinOps analysts, and decision-makers who need to compare pricing, spot anomalies, and find savings opportunities across regions and instance types.
 
 ![Global EC2 Cost Intelligence](assets/dashboard-global-ec2-cost-intelligence.png)
