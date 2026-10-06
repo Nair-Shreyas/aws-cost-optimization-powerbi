@@ -2,6 +2,12 @@
 
 ![Project Overview](assets/0_project_overview.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_with-Power_BI-F2C811?style=flat-square" alt="Built with: Power BI"/>
+  <img src="https://img.shields.io/badge/Data_prep-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Data prep: Google Colab"/>
+  <img src="https://img.shields.io/badge/Data-AWS_EC2_pricing-c9440c?style=flat-square" alt="Data: AWS EC2 pricing"/>
+</p>
+
 An interactive Power BI dashboard for cloud cost analysis, built around real AWS EC2 pricing data — designed for cloud architects, FinOps analysts, and decision-makers who need to compare pricing, spot anomalies, and find savings opportunities across regions and instance types.
 
 ![Global EC2 Cost Intelligence](assets/dashboard-global-ec2-cost-intelligence.png)
